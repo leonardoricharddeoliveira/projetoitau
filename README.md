@@ -21,15 +21,6 @@ Desenvolver uma aplicação robusta com base em .NET Core, MySQL e boas prática
 
 ---
 
-## 📂 Estrutura do Projeto
-- `/sql/` – Scripts de criação de tabelas e índices
-- `/src/` – Código-fonte da aplicação
-- `/tests/` – Testes unitários
-- `/docs/` – Documentação técnica e OpenAPI
-- `/workers/` – Serviços de integração Kafka
-
----
-
 ## 🧠 Funcionalidades
 - Registro de operações (compra/venda)
 - Cálculo de posição por ativo e global
@@ -64,4 +55,8 @@ Desenvolver uma aplicação robusta com base em .NET Core, MySQL e boas prática
 
 ## 🧾 Backlog do Desafio
 ![image](https://github.com/user-attachments/assets/72135a12-d520-4684-8352-ef882512d255)
+
+---
+## Repositório Com Conteúdo
+https://github.com/leonardoricharddeoliveira/projeto-itau-invest
 

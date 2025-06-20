@@ -1,9 +1,11 @@
-# Sistema de Investimentos - Desafio Técnico Itaú
+## Sistema de Investimentos - Desafio Técnico Itaú
 
 Este projeto implementa um sistema de controle de investimentos em renda variável. O sistema contempla operações de compra e venda de ativos, cálculo de posição, integração com dados externos e exposição via APIs RESTful.
 
----
+**Desafio - Apoiar três desenvolvedores, no Papel de Scrum Master, utilizando o framework Scrum.**
 
+---
+## **Informações sobre o Desafio Itaú**
 ## ✅ Objetivo
 Desenvolver uma aplicação robusta com base em .NET Core, MySQL e boas práticas de engenharia de software, seguindo os critérios técnicos fornecidos pelo Itaú.
 
@@ -60,5 +62,6 @@ Desenvolver uma aplicação robusta com base em .NET Core, MySQL e boas prática
 
 ---
 
-## 🧾 Observações
-Este projeto foi desenvolvido como parte do Processo Seletivo Itaú – Fase 2. Todas as funcionalidades foram priorizadas e entregues com foco em qualidade, performance e clareza.
+## 🧾 Backlog do Desafio
+![image](https://github.com/user-attachments/assets/72135a12-d520-4684-8352-ef882512d255)
+

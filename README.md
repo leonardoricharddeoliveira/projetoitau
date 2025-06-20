@@ -2,7 +2,7 @@
 
 Este projeto implementa um sistema de controle de investimentos em renda variável. O sistema contempla operações de compra e venda de ativos, cálculo de posição, integração com dados externos e exposição via APIs RESTful.
 
-**Desafio - Apoiar três desenvolvedores, no Papel de Scrum Master, utilizando o framework Scrum.**
+**Desafio - Atuar como Scrum Master e apoiar um Dev Team, na utilização do Framework Scrum.**
 
 ---
 ## **Informações sobre o Desafio Itaú**

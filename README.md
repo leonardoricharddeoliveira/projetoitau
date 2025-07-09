@@ -54,7 +54,7 @@ Desenvolver uma aplicação robusta com base em .NET Core, MySQL e boas prática
 ---
 
 ## 🧾 Backlog do Desafio
-![image](https://github.com/user-attachments/assets/e2187e3b-3bf1-4986-9947-0a9122dc97c2)
+![image](https://github.com/user-attachments/assets/a5173579-6581-4985-b5aa-0040a8e7ea16)
 
 
 ---
